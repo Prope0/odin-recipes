@@ -1,0 +1,14 @@
+
+body {
+    background-image: url("img/background.jpg");
+    background-color: black;
+}
+
+* {
+    font-family: sans-serif;
+    
+}
+
+.h1-headings {
+    color: linear-gradient (blue, red);
+}
